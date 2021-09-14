@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise'
 gem "hotwire-rails"
+#gems added for testing
+gem 'acts_as_list', '~> 1.0', '>= 1.0.2'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
